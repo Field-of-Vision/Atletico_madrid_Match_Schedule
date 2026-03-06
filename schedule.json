@@ -1,0 +1,20 @@
+{
+  "schedule": [
+    {
+      "date": "2026-03-07",
+      "time": "18:30",
+      "timezone": "Europe/Madrid",
+      "game_id": 2572202,
+      "home": "Atlético de Madrid",
+      "away": "Real Sociedad"
+    },
+    {
+      "date": "2026-04-14",
+      "time": "16:15",
+      "timezone": "Europe/Madrid",
+      "game_id": 2572213,
+      "home": "Atlético de Madrid",
+      "away": "Getafe CF"
+    }
+  ]
+}
