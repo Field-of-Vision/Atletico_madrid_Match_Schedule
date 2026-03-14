@@ -12,9 +12,33 @@
       "date": "2026-03-14",
       "time": "16:15",
       "timezone": "Europe/Madrid",
-      "game_id": 2572213,
+      "game_id": 2572213, 
       "home": "Atlético de Madrid",
       "away": "Getafe CF"
+    },
+    {
+      "date": "2026-04-04",
+      "time": "21:00",
+      "timezone": "Europe/Madrid",
+      "game_id": 2572232,
+      "home": "Atlético de Madrid",
+      "away": "FC Barcelona"
+    },
+        {
+      "date": "2026-12-31",
+      "time": "00:00",
+      "timezone": "Europe/Madrid",
+      "game_id": 2572254,
+      "home": "Atlético de Madrid",
+      "away": "Athletic Club"
+    },
+    {
+      "date": "2026-12-31",
+      "time": "00:00",
+      "timezone": "Europe/Madrid",
+      "game_id": 2572280,
+      "home": "Atlético de Madrid",
+      "away": "RC Celta"
     }
   ]
 }
