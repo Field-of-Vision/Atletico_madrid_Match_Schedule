@@ -1,0 +1,12 @@
+{
+  "schedule": [
+    {
+      "date": "2026-04-14",
+      "time": "21:00",
+      "timezone": "Europe/Madrid",
+      "home": "Atletico de Madrid",
+      "away": "FC Barcelona",
+      "queue": "fieldofvision.92057:live.samples.ball"
+    }
+  ]
+}
