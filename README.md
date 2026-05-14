@@ -9,3 +9,4 @@ Upload this document as atletico schedules are confirmed. Ensure to add game ID 
 | 30       | Atlético de Madrid | FC Barcelona  | 2572232 |
 | 32       | Atlético de Madrid | Athletic Club | 2572254 |
 | 35       | Atlético de Madrid | RC Celta      | 2572280 |
+| 35       | Atlético de Madrid | Girona FC     | 2572299 |
