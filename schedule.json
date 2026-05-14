@@ -39,6 +39,14 @@
       "game_id": 2572280,
       "home": "Atlético de Madrid",
       "away": "RC Celta"
+    },
+        {
+      "date": "2026-05-17",
+      "time": "19:00",
+      "timezone": "Europe/Madrid",
+      "game_id": 2572299,
+      "home": "Atlético de Madrid",
+      "away": "Girona FC"
     }
   ]
 }
