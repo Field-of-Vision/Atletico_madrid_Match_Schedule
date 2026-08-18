@@ -47,6 +47,22 @@
       "game_id": 2572299,
       "home": "Atlético de Madrid",
       "away": "Girona FC"
+    },
+            { 
+      "date": "2026-08-19",
+      "time": "21:00",
+      "timezone": "Europe/Madrid",
+      "game_id": 2650763,
+      "home": "Atlético de Madrid",
+      "away": "Málaga CF"
+    },
+                { 
+      "date": "2026-08-23",
+      "time": "17:00",
+      "timezone": "Europe/Madrid",
+      "game_id": 2650773,
+      "home": "Atlético de Madrid",
+      "away": "Villarreal CF"
     }
   ]
 }
