@@ -63,6 +63,22 @@
       "game_id": 2650773,
       "home": "Atlético de Madrid",
       "away": "Villarreal CF"
+    },
+                { 
+      "date": "2026-09-16",
+      "time": "19:00",
+      "timezone": "Europe/Madrid",
+      "game_id": 2650813,
+      "home": "Atlético de Madrid",
+      "away": "CA Osasuna"
+    },
+                { 
+      "date": "2026-09-20",
+      "time": "16:15",
+      "timezone": "Europe/Madrid",
+      "game_id": 2650823,
+      "home": "Atlético de Madrid",
+      "away": "Real Madrid"
     }
   ]
 }
