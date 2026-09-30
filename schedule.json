@@ -79,6 +79,14 @@
       "game_id": 2650823,
       "home": "Atlético de Madrid",
       "away": "Real Madrid"
+    },
+                    { 
+      "date": "2026-10-24",
+      "time": "21:00",
+      "timezone": "Europe/Madrid",
+      "game_id": 2650854,
+      "home": "Atlético de Madrid",
+      "away": "RC Deportivo"
     }
   ]
 }
