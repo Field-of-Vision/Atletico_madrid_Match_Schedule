@@ -1,0 +1,20 @@
+{
+  "schedule": [
+    {
+      "date": "2026-10-31",
+      "time": "21:00",
+      "timezone": "Europe/Amsterdam",
+      "game_id": 2638976,
+      "home": "Ajax",
+      "away": "AZ"
+    },
+    {
+      "date": "2026-12-6",
+      "time": "14:30",
+      "timezone": "Europe/Amsterdam",
+      "game_id": 9999999,
+      "home": "Ajax",
+      "away": "FC Utrecht"
+    }
+  ]
+}
